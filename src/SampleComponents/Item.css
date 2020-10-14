@@ -1,0 +1,40 @@
+.delete {
+    color: rgb(250, 234, 234);
+    font-weight: bold;
+    background-color: red;
+}
+.plus {
+    color: rgb(250, 234, 234);
+    font-weight: bold;
+    background-color: green;
+}
+.grid {
+    height: '100%';
+    display: 'grid';
+    justify-content: 'center';
+    align-items: 'center';
+}
+.posi{
+    max-width: 400;
+    position: 'relative';
+}
+.general{
+    width: 30px;
+    height: 21px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.line{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top-width: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.input{
+    width: 50px;
+    height: 15px;
+}
+.button{
+    width: 66px;
+}

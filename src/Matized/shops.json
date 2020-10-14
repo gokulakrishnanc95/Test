@@ -1,0 +1,22 @@
+[
+    {
+        "s_id": "dcs-maligai",
+        "name": "dcs maligai",
+        "address": "mission street"
+    },
+    {
+        "s_id": "Murugan-store",
+        "name": "Murugan Stores",
+        "address": "mission street"
+    },
+    {
+        "s_id": "santhini-stores",
+        "name": "santhini wholesale",
+        "address": "big bazar street"
+    },
+    {
+        "s_id": "manibal-stores",
+        "name": "Manibal stores",
+        "address": "gold line shop street"
+    }
+]

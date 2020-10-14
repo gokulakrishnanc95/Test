@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "lkskdjwerixkvbixgdf",
+        "loc": "tirupur",
+        "shops": [
+            {
+                "s_id": "dcsasdfasdfasdf",
+                "name": "dcs",
+                "address": "mission street"
+            },
+            {
+                "s_id": "dcsasdfasdfasdasdff",
+                "name": "dcs2",
+                "address": "mission street"
+            }
+        ]
+    },
+    {
+        "_id": "lkskdjweriasdfxkvbixgdf",
+        "loc": "coimbatore",
+        "shops": [
+            {
+                "s_id": "dcssdasdfasdfasdf",
+                "name": "dcs3",
+                "address": "mission street"
+            },
+            {
+                "s_id": "dcsasdfafdsdfasdasdff",
+                "name": "dcs4",
+                "address": "mission street"
+            }
+        ]
+    }
+]

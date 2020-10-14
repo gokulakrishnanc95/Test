@@ -1,0 +1,245 @@
+[
+        {
+            "category_id": "1000",
+            "category_name": "oil",
+            "category_items": [
+                {
+                    "items_id":  "10000",
+                    "item_company_name": "kaliswary",
+                    "items_full_name": "gold winner",
+                    "item_short_name": "gold winner",
+                    "items_types": [
+                        {
+                            "item_code": "gw200",
+                            "item_type": "packet",
+                            "item_unit": "200",
+                            "item_unit_type": "ml",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "24",
+                                    "item_mrp": "30",
+                                    "min_quantity": "1",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "22",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "box",
+                                    "item_sale_on_type_price": "2400",
+                                    "item_mrp": "3000",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "2200",
+                                    "sub_unit_type": "packet",
+                                    "sub_unit_coutn": "100",
+                                    "sub_unit_code": "gw200"
+                                }
+                            ]
+                        },
+                        {
+                            "item_code": "gw1",
+                            "item_type": "packet",
+                            "item_unit": "1",
+                            "item_unit_type": "liter",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "110",
+                                    "item_mrp": "125",
+                                    "min_quantity": "1",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "22",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "box",
+                                    "item_sale_on_type_price": "1100",
+                                    "item_mrp": "1250",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "2000",
+                                    "sub_unit_type": "packet",
+                                    "sub_unit_coutn": "10",
+                                    "sub_unit_code": "gw1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "items_id":  "10001",
+                    "item_company_name": "Mr.Gold",
+                    "items_full_name": "Mr.Gold kadalai ennai",
+                    "item_short_name": "Mr.Gold",
+                    "items_types": [
+                        {
+                            "item_code": "mg500",
+                            "item_type": "packet",
+                            "item_unit": "500",
+                            "item_unit_type": "ml",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "85",
+                                    "item_mrp": "98",
+                                    "min_quantity": "1",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "80",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                }
+                            ]
+                        },
+                        {
+                            "item_code": "mg1",
+                            "item_type": "packet",
+                            "item_unit": "1",
+                            "item_unit_type": "liter",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "180",
+                                    "item_mrp": "198",
+                                    "min_quantity": "12",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "170",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "box",
+                                    "item_sale_on_type_price": "1750",
+                                    "item_mrp": "1980",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "1700",
+                                    "sub_unit_type": "packet",
+                                    "sub_unit_coutn": "10",
+                                    "sub_unit_code": "mg1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": "1001",
+            "category_name": "soap",
+            "category_items": [
+                {
+                    "items_id":  "10002",
+                    "item_company_name": "Hindustan Uniliver",
+                    "items_full_name": "Hamam",
+                    "item_short_name": "Hamam",
+                    "items_types": [
+                        {
+                            "item_code": "h100",
+                            "item_type": "piece",
+                            "item_unit": "100",
+                            "item_unit_type": "grams",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "32",
+                                    "item_mrp": "32",
+                                    "min_quantity": "10",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "30",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "box",
+                                    "item_sale_on_type_price": "3000",
+                                    "item_mrp": "32",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "2950",
+                                    "sub_unit_type": "piece",
+                                    "sub_unit_coutn": "100",
+                                    "sub_unit_code": "h100"
+                                }
+                            ]
+                        },
+                        {
+                            "item_code": "h10",
+                            "item_type": "piece",
+                            "item_unit": "26",
+                            "item_unit_type": "grams",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "10",
+                                    "item_mrp": "10",
+                                    "min_quantity": "3",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "9",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "dizon",
+                                    "item_sale_on_type_price": "115",
+                                    "item_mrp": "120",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "110",
+                                    "sub_unit_type": "piece",
+                                    "sub_unit_coutn": "12",
+                                    "sub_unit_code": "h10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "items_id":  "10003",
+                    "item_company_name": "ITC",
+                    "items_full_name": "Nature Power lavender",
+                    "item_short_name": "Nature Power lav",
+                    "items_types": [
+                        {
+                            "item_code": "np100",
+                            "item_type": "piece",
+                            "item_unit": "100",
+                            "item_unit_type": "grams",
+                            "item_sale_type": [
+                                {
+                                    "item_sale_on_type": "piece",
+                                    "item_sale_on_type_price": "30",
+                                    "item_mrp": "30",
+                                    "min_quantity": "6",
+                                    "max_quantity": "100",
+                                    "item_purchase,price": "29",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                },
+                                {
+                                    "item_sale_on_type": "dizon",
+                                    "item_sale_on_type_price": "77",
+                                    "item_mrp": "80",
+                                    "min_quantity": "1",
+                                    "max_quantity": "25",
+                                    "item_purchase,price": "75",
+                                    "sub_unit_type": "",
+                                    "sub_unit_coutn": "",
+                                    "sub_unit_code": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+]
